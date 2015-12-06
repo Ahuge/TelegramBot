@@ -107,3 +107,20 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# Pycharm
+# =============================
+.idea
+
+# Virtualenv
+# =============================
+Include
+Scripts
+sigslots
+.sigslots
+
+# Misc
+# =============================
+weep.py
+pip-selfcheck.json
